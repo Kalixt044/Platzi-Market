@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class holaMundo {
     @GetMapping("Hi")
     public String saludar(){
-        return "Nunca pares de aprender, Klt044";
+        return "Nunca pares de aprender we are the best one, Klt044";
     }
 }
